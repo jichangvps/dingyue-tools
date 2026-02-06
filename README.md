@@ -14,17 +14,18 @@
 
 ## 目录
 
-- [跨平台客户端](#跨平台客户端)
-- [Windows平台](#windows平台)
-- [macOS平台](#macos平台)
-- [Linux平台](#linux平台)
-- [Android平台](#android平台)
-- [iOS平台](#ios平台需非国区apple-id)
-- [使用教程](#使用教程)
-- [常见问题](#常见问题)
+- [跨平台客户端](#cross-platform)
+- [Windows平台](#windows)
+- [macOS平台](#macos)
+- [Linux平台](#linux)
+- [Android平台](#android)
+- [iOS平台](#ios)
+- [使用教程](#tutorial)
+- [常见问题](#faq)
 
 ---
 
+<span id="cross-platform"></span>
 ## 跨平台客户端
 
 ### 1. Clash Verge Rev
@@ -83,6 +84,7 @@
 
 ---
 
+<span id="windows"></span>
 ## Windows平台
 
 ### 1. Clash for Windows
@@ -106,6 +108,7 @@
 
 ---
 
+<span id="macos"></span>
 ## macOS平台
 
 ### 1. ClashX
@@ -130,6 +133,7 @@
 
 ---
 
+<span id="linux"></span>
 ## Linux平台
 
 ### 1. Clash Verge Rev
@@ -153,6 +157,7 @@
 
 ---
 
+<span id="android"></span>
 ## Android平台
 
 ### 1. ClashMeta for Android
@@ -198,6 +203,7 @@
 
 ---
 
+<span id="ios"></span>
 ## iOS平台（需非国区Apple ID）
 
 ### 1. Shadowrocket（付费）
@@ -267,6 +273,7 @@
 
 ---
 
+<span id="tutorial"></span>
 ## 使用教程
 
 ### 快速开始指南
@@ -301,6 +308,7 @@
 
 ---
 
+<span id="faq"></span>
 ## 常见问题
 
 ### Q1：哪个客户端最好用？
@@ -362,4 +370,4 @@
 
 ---
 
-**最后更新：2026年1月14日**
+**最后更新：2026年2月6日**

@@ -84,6 +84,17 @@
 
 ---
 
+### 6. Clashmi
+**特点：** 全平台Clash Mihomo客户端，支持多平台同步
+- ✅ 支持Windows/macOS/Linux/Android/iOS
+- ✅ 基于Mihomo内核，性能优秀
+- ✅ 支持多种协议
+- ✅ 界面现代化，配置简单
+
+**下载地址：** [Clashmi Releases](https://github.com/KaringX/clashmi/releases)
+
+---
+
 <span id="windows"></span>
 ## Windows平台
 
@@ -370,4 +381,4 @@
 
 ---
 
-**最后更新：2026年2月6日**
+**最后更新：2026年3月3日**
